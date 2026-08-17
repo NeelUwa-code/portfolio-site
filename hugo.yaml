@@ -1,5 +1,5 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
-baseURL: http://localhost:1313/
+baseURL: https://NeelUwa-code.github.io/portfolio-site/
 
 locale: en-us
 title: "Neel's Portfolio"
