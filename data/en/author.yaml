@@ -1,21 +1,19 @@
 # some information about you
-name: "John Doe"
-nickname: "John"
+name: "Neel Sabhahit"
+nickname: "Neel"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Nice to meet you! I am"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
-  github: johndoe
-  linkedin: johndoe
+  email: "sabhahit.neel@gmail.com"
+  github: https://github.com/NeelUwa-code
+  linkedin: https://www.linkedin.com/in/neel-sabhahit/
   researchgate: john-doe
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - I am a Master's student at The University of Western Australia
+  - I'm interested in Deep Learning and Natural Language Processing
+  - Currently, my interests involve model quantization in LLMs and I'm trying to do some research in that vein! 
+  - In my free time, I read about world history, visit museums and do birdwatching
