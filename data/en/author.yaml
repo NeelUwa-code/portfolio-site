@@ -3,7 +3,7 @@ name: "Neel Sabhahit"
 nickname: "Neel"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Nice to meet you! I am"
-image: "images/author/john.png"
+image: "images/author/neel.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "sabhahit.neel@gmail.com"
@@ -13,7 +13,6 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Master's student at The University of Western Australia
-  - I'm interested in Deep Learning and Natural Language Processing
-  - Currently, my interests involve model quantization in LLMs and I'm trying to do some research in that vein! 
-  - In my free time, I read about world history, visit museums and do birdwatching
+  - I am a master's student at The University of Western Australia
+  - I am interested in Deep Learning and Natural Language Processing
+  - I am a former full-stack developer
