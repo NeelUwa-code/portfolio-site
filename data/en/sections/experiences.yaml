@@ -11,10 +11,10 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: Eurofins IT Solutions India
+    # url: "https://www.example.com"
+    location: Bangalore
+    # logo: /images/sections/experiences/company1.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
