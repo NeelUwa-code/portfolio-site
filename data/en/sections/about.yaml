@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am a Master of Data Science student at UWA, interested in Deep Learning and Generative AI. I'm currently looking into large language model compression techniques. In my free time, I like read about world history, visit museums and do birdwatching."
+summary: "I am a Master of Data Science student at UWA, interested in deep learning and generative AI. I'm currently going down the rabbit hole of large language model compression techniques! In my free time, I like read about world history, visit museums and do birdwatching."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -49,6 +49,7 @@ resourceLinks:
 - type: certification
   name: Introduction to Model Context Protocol by Anthropic
   url: "https://www.linkedin.com/learning/certificates/a0cc7476994346df6bee1ba6a351edee218970ad0ac211e5e34e5f48b3925479?trk=share_certificate"
+  badge: "https://www.linkedin.com/learning/certificates/a0cc7476994346df6bee1ba6a351edee218970ad0ac211e5e34e5f48b3925479?trk=share_certificate"
 
 - type: certification
   name: Harnessing the Power of Data with Power BI

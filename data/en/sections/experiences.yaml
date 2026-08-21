@@ -19,22 +19,24 @@ experiences:
     # darkLogo: /images/sections/experiences/company2.jpg
     overview: I work for the School of Physics, Mathematics and Computing.
   positions:
-  - designation: Teaching Assistant (Computational Thinking with Python - CITS1401)
+  - designation: Teaching Assistant (CITS1401)
     start: July 2026
     responsibilities:
-    - Teach weekly labs and keep discussion forum up-to-date.
+    - Teach weekly labs for CITS1401 (Computational Thinking with Python).
+    - Keep discussion forum up-to-date.
     # - Work alongside the teaching team to correct papers for the mid-semester test.
 
-  - designation: Teaching Assistant (Relational Database Management Systems - CITS1402)
+  - designation: Teaching Assistant (CITS1402)
     start: February 2026
     responsibilities:
-    - Teach weekly labs and conduct demo interviews for the semester project.
-    - Invigilate the mid-semester test and final exam.
+    - Teach weekly labs for CITS1402 (Relational Database Management Systems).
+    - Conduct demo interviews for the semester project.
+    - Invigilate the mid-semester test.
     - Correct mid-semester and final exam papers.
     - Update lab questions and provide sample solutions.
 
 - company:
-    name: Network Analysis and Social Influence Modelling Lab (UWA)
+    name: NASIM Lab (UWA)
     # url: "https://www.example.com"
     location: Perth
     # logo: /images/sections/experiences/company2.jpg
