@@ -15,7 +15,7 @@ degrees:
   timeframe: 2025-present
   institution:
     name: The University of Western Australia
-    url: "#"
+    # url: "#"
     # logo: /images/sections/education/tech_college.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
@@ -35,7 +35,7 @@ degrees:
   timeframe: 2019-2023
   institution:
     name: Visvesvaraya Technological University (New Horizon College of Engineering)
-    url: "#"
+    # url: "#"
     # logo: /images/sections/education/university.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
@@ -75,19 +75,19 @@ degrees:
   #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #   - name: Supervisor
   #     content: Fusce eu augue ut odio porttitor pulvinar.
-# - name: Higher Secondary School Certificate
-#   icon: fa-university
-#   timeframe: 2010-2012
-#   institution:
-#     name: MST College of Science
-#     url: "#"
-#     logo: /images/sections/education/science_college.png
-#     # Can optionally show a different logo for dark theme
-#     # darkLogo: /images/sections/education/science_college.png
-#   grade: #(optional)
-#     scale: GPA
-#     achieved: 5
-#     outOf: 5
+- name: Senior Secondary Certificate (Grade 12)
+  icon: fa-university
+  timeframe: 2018-2019
+  institution:
+    name: Army Public School Bangalore
+    # url: "#"
+    # logo: /images/sections/education/science_college.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/science_college.png
+  grade: #(optional)
+    scale: Percentage
+    achieved: 92.4
+    outOf: 100
 #   extracurricularActivities: #(optional)
 #   - In vitae facilisis est, eget porta sem.
 #   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.

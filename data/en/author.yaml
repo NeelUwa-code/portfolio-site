@@ -9,10 +9,10 @@ contactInfo:
   email: "sabhahit.neel@gmail.com"
   github: https://github.com/NeelUwa-code
   linkedin: https://www.linkedin.com/in/neel-sabhahit/
-  researchgate: john-doe
+  researchgate: https://www.researchgate.net/profile/Neel-Sabhahit
 
 # some summary about what you do
 summary:
-  - I am a master's student at The University of Western Australia
-  - I am interested in Deep Learning and Natural Language Processing
-  - I am a former full-stack developer
+  - I am a Graduate Student at The University of Western Australia
+  - I am a former Full-stack Developer
+  - I am interested in all things generative AI!
